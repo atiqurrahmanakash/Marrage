@@ -40,7 +40,7 @@ body {
   margin: 16px;
   height: 680.09px;
   width: 319.27px;
-  background: url("./images/illus.png");
+  background: url("../images/illus.png");
   background-size: cover;
 }
 .form-img .main-step{
